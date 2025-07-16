@@ -16,3 +16,22 @@ This script installs and configures `keyd` and toggles between the original and 
 ```bash
 chmod +x layout-changer.sh
 ./layout-changer.sh
+```
+
+## Requirements
+
+- Debian/Ubuntu system  
+- `sudo` access  
+- Internet connection  
+
+---
+
+## File Structure
+
+| File                        | Description                  |
+|-----------------------------|------------------------------|
+| `layout-changer.sh`         | Main script                  |
+| `default.conf.baytion.bak`  | Custom keyd config           |
+| `default.conf.original.bak` | Backup of original keyd config |
+| `us.baytion.bak`            | Custom keyboard layout       |
+| `us.original.bak`           | Backup of original keyboard layout |
