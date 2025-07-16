@@ -1,4 +1,4 @@
-# Keyboard Layout Changer (Baytion Edition)
+# Keyboard Layout Changer (Baytion Edition Tested - But works for other keyboards as well)
 
 This script installs and configures `keyd` and toggles between the original and a custom (Baytion) keyboard layout on Linux systems using X11 and keyd.
 
