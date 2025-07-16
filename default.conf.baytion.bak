@@ -1,0 +1,7 @@
+[ids]
+*
+
+[main]
+rightshift = comma
+comma = dot
+dot = /
